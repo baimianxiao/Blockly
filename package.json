@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@blockly/dev-tools": "^8.0.12",
+    "blockly": "^11.2.1"
+  }
+}
