@@ -9,10 +9,9 @@ export default function Home() {
         <meta name="description" content="Blockly integration with Next.js" />
       </Head>
 
-      <main className="container mx-auto p-4">
-        <h1 className="text-2xl mb-4">Blockly Demo</h1>
-        <BlocklyComponent></BlocklyComponent>
-      </main>
+      
+      <BlocklyComponent></BlocklyComponent>
+     
     </div>
   )
 }
